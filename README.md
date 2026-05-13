@@ -12,6 +12,10 @@
 
 *MENTOR*: NEELA SANTOSH
 
+*OUTPUT*
+
+<img width="1365" height="719" alt="Image" src="https://github.com/user-attachments/assets/a31512d4-f8d9-4ee8-90f5-c2eccfb202e3" />
+
 This project is a File Integrity Checker developed using Python. The main purpose of this project is to check whether files have been modified, deleted, or newly added. It helps in maintaining the security and integrity of important files by comparing their current state with previously saved information. This project is simple and suitable for beginners because it introduces important concepts like file handling, hashing, and cybersecurity basics.
 
 The main tool used in this project is Python because it is easy to learn and widely used for automation and security-related tasks. Python provides built-in libraries that make the development process simple. One of the important libraries used is hashlib. This module is used to generate hash values for files using the SHA-256 algorithm. A hash value is like a digital fingerprint of a file. Every file has a unique hash, and even a small change in the file content produces a completely different hash value. This helps in identifying whether a file has been changed or not.
